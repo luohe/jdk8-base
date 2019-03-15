@@ -1,4 +1,4 @@
-FROM trepr/centos-base:lateste
+FROM trepr/centos-base:latest
 LABEL maintainer="TRE-PR/SECTI/COSIS/Seção de Desenvolvimento de Sistemas <sds@tre-pr.jus.br>" \
       description="Imagem docker base JDK8"
 
